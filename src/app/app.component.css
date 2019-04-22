@@ -1,0 +1,25 @@
+.top-nav  .col-md-4{
+    width:33.33%;
+    float: left;
+}
+
+.top-nav .col-md-2{
+    width: 16.66%;
+    float: left;
+}
+
+.top-nav .col-md-12{
+    clear: both;
+}
+
+.top-nav .col-md-8{
+    width: 66.66%;
+    float: left;
+}
+
+.top-nav .md-offset-1{
+    margin:0 auto;
+}
+.hero-banner{
+    background-color:#1FBBA6;
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="42.408" height="59.987" viewBox="0 0 2480 3508">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #1fbba6;
+        stroke-width: 13px;
+        fill: none;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path d="M380.000,1718.502 C389.990,1718.502 1242.007,1013.505 1242.007,1013.505 C1242.007,1013.505 2002.010,1676.516 2084.000,1721.000 C2091.593,1721.484 2198.477,1579.522 2176.000,1597.000 L1244.000,849.000 L295.508,1626.505 C295.508,1626.505 370.010,1718.502 380.000,1718.502 Z" class="cls-1"/>
+  <ellipse cx="1219.5" cy="1470" rx="171.5" ry="185" class="cls-2"/>
+  <rect x="1062" y="1407" width="316" height="11" class="cls-2"/>
+  <path d="M1702.000,1219.000 L1701.461,846.615 L1529.154,849.923 L1526.000,955.000 " class="cls-1"/>
+  <path d="M1975.000,1636.000 L1955.000,2648.000 L523.000,2648.000 L512.000,1616.000 " class="cls-1"/>
+  <rect x="744" y="1912" width="420" height="736" class="cls-2"/>
+  <rect x="1408" y="1912" width="324" height="304" class="cls-2"/>
+  <rect x="1410" y="2008" width="317" height="8" class="cls-2"/>
+  <rect x="1391" y="2206" width="364" height="8" class="cls-2"/>
+</svg>

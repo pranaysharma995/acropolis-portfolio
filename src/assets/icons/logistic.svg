@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="51.918" height="59.987" viewBox="0 0 592 684">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #1fbba6;
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 8px;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <rect x="82" y="295.031" width="439" height="234.969" class="cls-1"/>
+  <rect x="128.188" y="308.813" width="31.187" height="206.187" class="cls-1"/>
+  <rect x="206.156" y="307.625" width="31.188" height="206.188" class="cls-1"/>
+  <path d="M158.528,226.156 C162.058,225.450 443.353,226.057 443.353,226.057 L520.749,296.233 L83.456,296.233 C83.456,296.233 154.998,226.862 158.528,226.156 Z" class="cls-2"/>
+  <path d="M297.251,176.993 L297.000,177.931 L425.740,229.010 L425.991,228.072 L297.251,176.993 Z" class="cls-3"/>
+  <path d="M298.013,177.802 L297.476,176.988 L179.009,228.185 L179.546,228.999 L298.013,177.802 Z" class="cls-3"/>
+  <path d="M300.969,162.397 L300.969,167.306 C300.969,167.306 308.467,174.667 300.969,178.635 C300.151,179.012 294.191,182.307 289.906,175.614 " class="cls-3"/>
+  <rect x="276" y="161" width="46" height="2" class="cls-4"/>
+  <rect x="282.906" y="309.406" width="31.188" height="206.219" class="cls-1"/>
+  <rect x="437.031" y="308.813" width="31.188" height="206.187" class="cls-1"/>
+  <rect x="359.688" y="309.406" width="31.156" height="206.219" class="cls-1"/>
+</svg>

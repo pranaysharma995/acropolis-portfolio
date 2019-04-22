@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="66.503" height="59.99" viewBox="0 0 776 700">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #1fbba6;
+        stroke-width: 13px;
+        fill: none;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path d="M272.000,160.000 C272.000,160.000 254.702,94.482 377.000,92.000 C377.621,90.759 438.893,99.922 460.000,54.000 C461.862,53.379 477.000,54.000 477.000,54.000 C477.000,54.000 489.946,145.628 383.000,158.000 C374.141,160.443 275.000,162.000 275.000,162.000 " class="cls-1"/>
+  <path d="M152.000,118.000 L258.000,121.000 L263.000,346.000 L399.000,250.000 L406.000,346.000 L542.000,254.000 L544.000,343.000 L682.000,254.000 L689.000,604.000 L100.000,607.000 L152.000,118.000 Z" class="cls-1"/>
+  <rect x="244" y="432" width="55" height="107" class="cls-2"/>
+  <rect x="395" y="432" width="55" height="107" class="cls-2"/>
+  <rect x="557" y="432" width="55" height="107" class="cls-2"/>
+</svg>

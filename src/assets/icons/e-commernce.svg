@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="60" height="60" viewBox="-0.014 -25.514 541.028 541.028">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #1fbba6;
+        stroke-width: 8px;
+        fill: none;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path d="M470.911,65.962 L407.436,99.573 L345.583,300.055 L112.154,300.890 " class="cls-1"/>
+  <path d="M87.838,138.778 L371.330,136.511 L300.413,275.848 L157.108,274.633 L87.838,138.778 Z" class="cls-1"/>
+  <ellipse cx="173.5" cy="343.5" rx="27.5" ry="30.5" class="cls-2"/>
+  <ellipse cx="275.5" cy="343.5" rx="27.5" ry="30.5" class="cls-2"/>
+</svg>
